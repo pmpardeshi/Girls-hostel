@@ -1,7 +1,7 @@
 # Girls-hostel merit list generator web app
   This is the project by Hackathon Club of Government College of Engineering And Reasearch Avasari.
   It allots the hostel seat for girls hostel on the basis of merit for college.
-  The front end is designed using HTML/CSS/JQUERY and at backend PHP/MYSQL is used.
+  The front end is designed using HTML/CSS/JS and at backend PHP/MYSQL is used.
   It takes Excel sheet as a input and output is generated as pdf file.
   The excel sheet contains the data of students applied for the girls hostel in the format specified by the DPU of GCOEARA.
   students have to apply at college and the excel sheet is generated at DPU itself. 
